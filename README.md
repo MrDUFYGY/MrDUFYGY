@@ -1,5 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrDUFYGY&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrDUFYGY)
+
 <!--
 **MrDUFYGY/MrDUFYGY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
